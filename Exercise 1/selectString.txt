@@ -1,0 +1,9 @@
+
+logs.txt:5:Circular            83886080       86037 System
+logs.txt:46:Circular             1052672         938 Microsoft-Windows-WindowsSystemAssessmentTool/Operational
+logs.txt:47:Circular             1052672             Microsoft-Windows-WindowsColorSystem/Operational
+logs.txt:103:Circular             1052672           0 Microsoft-Windows-SystemSettingsThreshold/Operational
+logs.txt:333:Circular             1052672        2409 Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational
+logs.txt:345:Circular             1052672           0 Microsoft-Windows-CertificateServicesClient-Lifecycle-System/Operational
+logs.txt:411:Circular            20971520           3 Intel-GFX-Info/System
+

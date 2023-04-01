@@ -1,0 +1,286 @@
+
+Name                                                         LogLinks
+----                                                         --------
+Workstation                                                  {System}
+WMIxWDM                                                      {System}
+WinNat                                                       {System}
+Windows Script Host                                          {System}
+Windows Disk Diagnostic                                      {System}
+Win32k                                                       {System}
+wecsvc                                                       {System}
+wdf01000                                                     {System}
+WacomPen                                                     {System}
+vwifimp                                                      {System}
+VSTXRAID                                                     {System}
+vsmraid                                                      {System}
+vpci                                                         {System}
+volmgr                                                       {System}
+Virtual Disk Service                                         {System}
+VDS Virtual Disk Provider                                    {System}
+VDS Dynamic Provider                                         {System}
+VDS Basic Provider                                           {System}
+VBoxUSBMon                                                   {System}
+VBoxNetLwf                                                   {System}
+usbvideo                                                     {System}
+usbser                                                       {System}
+usbehci                                                      {System}
+usbaudio2                                                    {System}
+UASPStor                                                     {System}
+tunnel                                                       {System}
+TCPMon                                                       {System}
+Tcpip6                                                       {System}
+Tcpip                                                        {System}
+System                                                       {System}
+Synaptics FPR                                                {System}
+stornvme                                                     {System}
+storahci                                                     {System}
+StillImage                                                   {System}
+stexstor                                                     {System}
+Srv                                                          {System}
+spbcx                                                        {System}
+spaceport                                                    {System}
+SNMPTRAP                                                     {System}
+SMSvcHost 4.0.0.0                                            {System}
+SMSvcHost 3.0.0.0                                            {System}
+SmartSAMD                                                    {System}
+SiSRaid4                                                     {System}
+SiSRaid2                                                     {System}
+Server                                                       {System}
+sermouse                                                     {System}
+Serial                                                       {System}
+sercx2                                                       {System}
+sercx                                                        {System}
+scmbus                                                       {System}
+sbp2port                                                     {System}
+rt640x64                                                     {System}
+RST Middleware                                               {System}
+rspndr                                                       {System}
+rhproxy                                                      {System}
+RFCOMM                                                       {System}
+RemoteAccess                                                 {System}
+rdbss                                                        {System}
+Rasman                                                       {System}
+RasCfg                                                       {System}
+RasAuto                                                      {System}
+Processor                                                    {System}
+PptpMiniport                                                 {System}
+Power                                                        {System}
+PNPMEM                                                       {System}
+pmem                                                         {System}
+percsas3i                                                    {System}
+percsas2i                                                    {System}
+pcmcia                                                       {System}
+partmgr                                                      {System}
+Parport                                                      {System}
+nvstor                                                       {System}
+nvdimm                                                       {System}
+Ntfs                                                         {System}
+Netwtw10                                                     {System}
+Netwtw08                                                     {System}
+Netlogon                                                     {System}
+NetBT                                                        {System}
+NetBIOS                                                      {System}
+ndiswanlegacy                                                {System}
+NdisWan                                                      {System}
+NdisImPlatform                                               {System}
+mvumis                                                       {System}
+Mup                                                          {System}
+MTConfig                                                     {System}
+MSiSCSI                                                      {System}
+mshidumdf                                                    {System}
+MSDTC WS-AT Protocol                                         {System}
+MSDTC Gateway                                                {System}
+MsBridge                                                     {System}
+mrxsmb                                                       {System}
+mouhid                                                       {System}
+mouclass                                                     {System}
+mlx4_bus                                                     {System}
+MEIx64                                                       {System}
+megasr                                                       {System}
+megasas35i                                                   {System}
+megasas2i                                                    {System}
+megasas                                                      {System}
+LSI_SSS                                                      {System}
+LSI_SAS3i                                                    {System}
+LSI_SAS2i                                                    {System}
+LSI_SAS                                                      {System}
+LmHosts                                                      {System}
+lltdio                                                       {System}
+Lfsvc                                                        {System}
+kdnic                                                        {System}
+kbdhid                                                       {System}
+kbdclass                                                     {System}
+ItSas35i                                                     {System}
+iScsiPrt                                                     {System}
+isapnp                                                       {System}
+IPMIDRV                                                      {System}
+intelppm                                                     {System}
+ibtusb                                                       {System}
+ibbus                                                        {System}
+iaStorV                                                      {System}
+iaStorAVC                                                    {System}
+iaStorAfs                                                    {System}
+iaStorAC                                                     {System}
+i8042prt                                                     {System}
+HpSAMD                                                       {System}
+hpdskflt                                                     {System}
+hidspi                                                       {System}
+hidi2c                                                       {System}
+HidBth                                                       {System}
+FltMgr                                                       {System}
+exFAT                                                        {System}
+eventlog                                                     {System}
+esif_lf                                                      {System}
+ebdrv                                                        {System}
+dptf_cpu                                                     {System}
+dptf_acpi                                                    {System}
+Dnscache                                                     {System}
+Dnsapi                                                       {System}
+Display                                                      {System}
+disk                                                         {System}
+cht4vbd                                                      {System}
+cht4iscsi                                                    {System}
+cdrom                                                        {System}
+BTHUSB                                                       {System}
+BTHPORT                                                      {System}
+BthMini                                                      {System}
+BthLEEnum                                                    {System}
+BthEnum                                                      {System}
+beep                                                         {System}
+BasicRender                                                  {System}
+b06bdrv                                                      {System}
+atapi                                                        {System}
+AsyncMac                                                     {System}
+arcsas                                                       {System}
+Application Management Group Policy                          {System}
+amdxata                                                      {System}
+amdsbs                                                       {System}
+amdsata                                                      {System}
+AmdPPM                                                       {System}
+AmdK8                                                        {System}
+AFD                                                          {System}
+ADP80XX                                                      {System}
+ACPI                                                         {System}
+3ware                                                        {System}
+Microsoft-Windows-Eventlog                                   {System, Security, Setup, Microsoft-Windows-EventLog/Debug…}
+Microsoft-Windows-FilterManager                              {System}
+Microsoft-Windows-MPRMSG                                     {System}
+Microsoft-Windows-Kernel-XDV                                 {Microsoft-Windows-Kernel-XDV/Analytic, System}
+Microsoft-Windows-Bits-Client                                {System, Microsoft-Windows-Bits-Client/Operational, Microsoft-Windows-Bits-Client/Analytic}
+Microsoft-Windows-Serial-ClassExtension-V2                   {System, Microsoft-Windows-Serial-ClassExtension-V2/Analytic}
+Microsoft-Windows-DiskDiagnostic                             {System, Microsoft-Windows-DiskDiagnostic/Operational}
+Microsoft-Windows-Firewall                                   {System}
+Microsoft-Windows-MountMgr                                   {System}
+Microsoft-Windows-FMS                                        {System, Microsoft-Windows-FMS/Operational, Microsoft-Windows-FMS/Analytic, Microsoft-Windows-FMS/Debug}
+Microsoft-Windows-TaskScheduler                              {Microsoft-Windows-TaskScheduler/Operational, System, Microsoft-Windows-TaskScheduler/Debug, Microsoft-Windows…
+Ntfs                                                         {System}
+Microsoft-Windows-HttpService                                {Microsoft-Windows-HttpService/Trace, System}
+Microsoft-Windows-Winlogon                                   {Microsoft-Windows-Winlogon/Diagnostic, Microsoft-Windows-Winlogon/Operational, System}
+Microsoft-Windows-CorruptedFileRecovery-Server               {System, Microsoft-Windows-CorruptedFileRecovery-Server/Operational}
+Intel-iaLPSS-I2C                                             {Intel-iaLPSS-I2C/Analytic, System}
+Intel-iaLPSS-GPIO                                            {Intel-iaLPSS-GPIO/Analytic, System}
+Microsoft-Windows-Windows Firewall With Advanced Security    {Microsoft-Windows-Windows Firewall With Advanced Security/Firewall, Microsoft-Windows-Windows Firewall With A…
+Microsoft-Windows-Spell-Checking                             {Microsoft-Windows-Spell-Checking/Analytic, System, Application}
+Microsoft-Windows-UserModePowerService                       {Microsoft-Windows-UserModePowerService/Diagnostic, System}
+Microsoft-Windows-NDIS                                       {Microsoft-Windows-NDIS/Operational, Microsoft-Windows-NDIS/Diagnostic, System}
+Microsoft-Windows-Power-Troubleshooter                       {System}
+Microsoft-Windows-ReFS                                       {System, Microsoft-Windows-ReFS/Operational}
+Volsnap                                                      {System}
+Microsoft-Windows-StartupRepair                              {System}
+Microsoft-Windows-TerminalServices-RemoteConnectionManager   {System, Microsoft-Windows-TerminalServices-RemoteConnectionManager/Admin, Microsoft-Windows-TerminalServices-…
+Microsoft-Windows-WHEA-Logger                                {System}
+Microsoft-Windows-PNRPSvc                                    {System}
+Microsoft-Windows-Memory-Diagnostic-Task-Handler             {System}
+Microsoft-Windows-CorruptedFileRecovery-Client               {System, Microsoft-Windows-CorruptedFileRecovery-Client/Operational}
+Microsoft-Windows-EventCollector                             {Application, System, ForwardedEvents, HardwareEvents…}
+Microsoft-Windows-SpellChecker                               {Microsoft-Windows-SpellChecker/Analytic, System, Application}
+Intel-SST-BUS                                                {System, Intel-SST-BUS/Debug}
+User32                                                       {System}
+Microsoft-Windows-GroupPolicy                                {System, Microsoft-Windows-GroupPolicy/Operational}
+Microsoft-Windows-USB-USBHUB3                                {System, Microsoft-Windows-USB-USBHUB3-Analytic}
+Microsoft-Windows-Kernel-IO                                  {Microsoft-Windows-Kernel-IO/Operational, System}
+Microsoft-Windows-WER-SystemErrorReporting                   {System}
+Microsoft-Windows-EnhancedStorage-EhStorTcgDrv               {System, Microsoft-Windows-EnhancedStorage-EhStorTcgDrv/Analytic}
+Microsoft-Windows-FailoverClustering-Client                  {System, Microsoft-Windows-FailoverClustering-Client/Diagnostic}
+Microsoft-Windows-PersistentMemory-Nvdimm                    {System, Microsoft-Windows-PersistentMemory-Nvdimm/Analytic, Microsoft-Windows-PersistentMemory-Nvdimm/Diagnos…
+Microsoft-Windows-SharedAccess_NAT                           {System}
+Microsoft-Windows-Kernel-General                             {System}
+Microsoft-Windows-NetworkBridge                              {System, Microsoft-Windows-NetworkBridge/Diagnostic}
+Microsoft-Windows-ResetEng                                   {System}
+Microsoft-Windows-SCPNP                                      {System}
+Microsoft-Windows-Kernel-PnP                                 {System, Microsoft-Windows-Kernel-PnP/Configuration, Microsoft-Windows-Kernel-PnP/Boot Diagnostic, Microsoft-W…
+Microsoft-Windows-Resource-Exhaustion-Detector               {System, Microsoft-Windows-Resource-Exhaustion-Detector/Operational}
+Microsoft-Windows-SPB-HIDI2C                                 {Microsoft-Windows-SPB-HIDI2C/Analytic, System}
+NetJoin                                                      {System}
+Microsoft-Windows-UserPnp                                    {System, Microsoft-Windows-UserPnp/SchedulerOperations, Microsoft-Windows-UserPnp/Performance, Microsoft-Windo…
+Microsoft-Windows-WLAN-AutoConfig                            {Microsoft-Windows-WLAN-AutoConfig/Operational, System, Microsoft-Windows-WLAN-Autoconfig/Diagnostic}
+Microsoft-Windows-OfflineFiles                               {System, Microsoft-Windows-OfflineFiles/Operational, Microsoft-Windows-OfflineFiles/Analytic, Microsoft-Window…
+Microsoft-Windows-Kernel-Interrupt-Steering                  {System, Microsoft-Windows-Kernel-Interrupt-Steering/Diagnostic}
+Microsoft-Windows-WindowsUpdateClient                        {System, Microsoft-Windows-WindowsUpdateClient/Operational, Microsoft-Windows-WindowsUpdateClient/Analytic}
+Microsoft-Windows-Ntfs-UBPM                                  {System}
+Microsoft-Windows-Audit-CVE                                  {Application, System}
+Microsoft-Windows-DfsSvc                                     {System}
+Microsoft-Windows-TPM-WMI                                    {System}
+Microsoft-Windows-HttpEvent                                  {System}
+Microsoft-Windows-Kernel-WHEA                                {System, Microsoft-Windows-Kernel-WHEA/Errors, Microsoft-Windows-Kernel-WHEA/Operational}
+Microsoft-Windows-USB-MAUSBHOST                              {System, Microsoft-Windows-USB-MAUSBHOST-Analytic}
+Microsoft-Windows-Setup                                      {Microsoft-Windows-Setup/Analytic, Setup, System}
+Microsoft-Windows-ResourcePublication                        {System, Microsoft-Windows-ResourcePublication/Tracing}
+Microsoft-Windows-MemoryDiagnostics-Schedule                 {System}
+Microsoft-Windows-IsolatedUserMode                           {System}
+Microsoft-Windows-SPB-ClassExtension                         {Microsoft-Windows-SPB-ClassExtension/Analytic, System}
+Microsoft-Windows-LanguagePackSetup                          {System, Microsoft-Windows-LanguagePackSetup/Operational, Microsoft-Windows-LanguagePackSetup/Analytic, Micros…
+Intel-SST-OED                                                {System, Intel-SST-OED/IntcOED_ETW_Debug}
+Microsoft-Windows-Wallet                                     {System}
+Microsoft-Windows-RasSstp                                    {System}
+Microsoft-Windows-Fault-Tolerant-Heap                        {System, Microsoft-Windows-Fault-Tolerant-Heap/Operational}
+Microsoft-Windows-WMPNSS-Service                             {Microsoft-Windows-WMPNSS-Service/Diagnostic, System, Microsoft-Windows-WMPNSS-Service/Operational}
+Microsoft-Windows-DHCPv6-Client                              {Microsoft-Windows-Dhcpv6-Client/Admin, Microsoft-Windows-Dhcpv6-Client/Operational, System}
+Microsoft-Windows-Iphlpsvc                                   {System, Microsoft-Windows-Iphlpsvc/Operational}
+Microsoft-Windows-BitLocker-Driver                           {System}
+Microsoft-Windows-Devices-Background                         {System, Microsoft-Windows-Devices-Background/Operational}
+Microsoft-Windows-HAL                                        {System, Microsoft-Windows-HAL/Debug}
+Microsoft-Windows-NdisImPlatformSysEvtProvider               {System}
+Microsoft-Windows-MemoryDiagnostics-Results                  {System, Microsoft-Windows-MemoryDiagnostics-Results/Debug}
+Microsoft-Windows-TerminalServices-LocalSessionManager       {System, Microsoft-Windows-TerminalServices-LocalSessionManager/Admin, Microsoft-Windows-TerminalServices-Loca…
+Microsoft-Windows-BitLocker-API                              {System, Microsoft-Windows-BitLocker/BitLocker Management, Microsoft-Windows-BitLocker/Tracing, Microsoft-Wind…
+Microsoft-Windows-GPIO-ClassExtension                        {Microsoft-Windows-GPIO-ClassExtension/Analytic, System}
+Service Control Manager                                      {System}
+Microsoft-Windows-FunctionDiscoveryHost                      {System}
+Microsoft-Windows-SetupPlatform                              {Microsoft-Windows-SetupPlatform/Analytic, Setup, System}
+Microsoft-Windows-Hyper-V-Hypervisor                         {System, Microsoft-Windows-Hyper-V-Hypervisor-Admin, Microsoft-Windows-Hyper-V-Hypervisor-Operational, Microso…
+Microsoft-Windows-Smartcard-Server                           {System}
+Microsoft-Windows-Kernel-Tm                                  {System}
+Microsoft-Windows-Bluetooth-BthLEPrepairing                  {Microsoft-Windows-Bluetooth-BthLEPrepairing/Operational, System}
+Microsoft-Windows-exFAT-SQM                                  {System}
+Application Popup                                            {System}
+Microsoft-Windows-Serial-ClassExtension                      {Microsoft-Windows-Serial-ClassExtension/Analytic, System}
+Microsoft-Windows-OverlayFilter                              {System}
+Microsoft-Windows-Subsys-SMSS                                {Microsoft-Windows-Subsys-SMSS/Operational, System}
+Microsoft-Windows-Ntfs                                       {System, Microsoft-Windows-Ntfs/Operational, Microsoft-Windows-Ntfs/WHC, Microsoft-Windows-Ntfs/Performance}
+Microsoft-Windows-Fat-SQM                                    {System}
+Microsoft-Windows-Diagnostics-Networking                     {Microsoft-Windows-Diagnostics-Networking/Operational, System, Microsoft-Windows-Diagnostics-Networking/Debug}
+Microsoft-Windows-CoreSystem-NetProvision-JoinProviderOnline {System}
+Microsoft-Windows-Kernel-Power                               {System, Microsoft-Windows-Kernel-Power/Diagnostic, Microsoft-Windows-Kernel-Power/Thermal-Diagnostic, Microso…
+Microsoft-Windows-USB-USBXHCI                                {System, Microsoft-Windows-USB-USBXHCI-Analytic, Microsoft-Windows-USB-USBXHCI-Trustlet-Analytic}
+Microsoft-Windows-Power-Meter-Polling                        {Microsoft-Windows-Power-Meter-Polling/Diagnostic, System}
+Microsoft-Windows-WindowsToGo-StartupOptions                 {System}
+Microsoft-Windows-DriverFrameworks-UserMode                  {Microsoft-Windows-DriverFrameworks-UserMode/Operational, Microsoft-Windows-Kernel-Power/Diagnostic, System}
+Microsoft-Windows-RasServer                                  {System}
+Microsoft-Windows-P2PIMSvc                                   {System}
+Microsoft-Windows-Wininit                                    {Microsoft-Windows-Wininit/Diagnostic, System}
+Schannel                                                     {System}
+Microsoft-Windows-DNS-Client                                 {Microsoft-Windows-DNS-Client/Operational, System}
+TPM                                                          {System}
+Microsoft-Windows-DistributedCOM                             {System}
+LsaSrv                                                       {System, Microsoft-Windows-LSA/Performance, Microsoft-Windows-LSA/Operational, Microsoft-Windows-LSA/Diagnosti…
+Microsoft-Windows-Kernel-Boot                                {System, Microsoft-Windows-Kernel-Boot/Analytic, Microsoft-Windows-Kernel-Boot/Operational}
+Microsoft-Windows-Dhcp-Client                                {Microsoft-Windows-Dhcp-Client/Operational, Microsoft-Windows-Dhcp-Client/Admin, System}
+Microsoft-Windows-Hyper-V-Netvsc                             {System, Microsoft-Windows-Hyper-V-NETVSC/Diagnostic}
+Microsoft-Windows-PersistentMemory-PmemDisk                  {System, Microsoft-Windows-PersistentMemory-PmemDisk/Analytic, Microsoft-Windows-PersistentMemory-PmemDisk/Dia…
+Microsoft-Windows-Kernel-Processor-Power                     {System, Microsoft-Windows-Kernel-Processor-Power/Diagnostic}
+Microsoft-Windows-Directory-Services-SAM                     {System}
+Microsoft-Windows-CoreSystem-InitMachineConfig               {System}
+Microsoft-Windows-Time-Service                               {System, Microsoft-Windows-Time-Service/Operational}
+Microsoft-Windows-ReFS-v1                                    {System}
+
